@@ -2,6 +2,8 @@
 ## Project Overview
 A weather app that provides current weather information in a simple and user-friendly interface.
 
+## Objective
+To design a simple weather app that helps users quickly check weather conditions and forecasts.
 ## Features
 Current temperature
 Weather condition
@@ -9,8 +11,8 @@ Humidity information
 Wind speed
 5-day weather forecast
 
-## Objective
-To design a simple weather app that helps users quickly check weather conditions and forecasts.
+## Tools Used
+Figma
 
 ## Design Highlights
 Clean and simple UI
